@@ -3,5 +3,4 @@
 # for playwright_test
 pip install fake-useragent
 pip install playwright
-playwright install firefox
-
+playwright install firefoxx
